@@ -29,11 +29,11 @@ We Use Binary To represent data when using computers because it is basically tel
 ###2 - How would we represent the number 147 in binary? *(1 mark)*
 ```
 answer here
-```
+10010011
 ###3 - Can you convert the hexadecimal number **b5** to denary, there is a mark for you working. *(2 marks)*
 
 answer here
-115
+181
 
 ###4 - Here is a function written is **pseudocode**.
 ```
@@ -54,7 +54,7 @@ Users is a boolean data
 (b) What type of data is returned by this function? **(1 mark)**
 ```
 answer here
-```
+The data type that is returned in this function is an integer
 
 ##Errors
 ###6 - This program is supposed to find the mean of a list of numbers and print it out for the user:
@@ -80,13 +80,12 @@ a syntax error is a error where something is wrong with the way the way the code
 (c) Identify a logical error in the program and suggest how this might be fixed. **(2 marks)**
 ```
 answer here
-```
+a logical error in the program is 
 
 (d) Describe and give an example of the 3rd kind of programming error. **(2 marks)**
 ```
 answer here
-```
-
+A runtime error occurs when your program runs unto a point then it fails(usually happens when there is an impossible sum to do like the square root of -x as there is no square root of a negative number.
 ##Algortithms
 ###7 - Write an **algorithm** that if given a list of numbers could find the largest. Try to use [pseudocode](http://filestore2.aqa.org.uk/subjects/AQA-GCSE-COMPSCI-W-TRB-PSEU.PDF).
 ```
@@ -124,18 +123,21 @@ Disadvantages:
 If the main cable fails the network will fail
 **Ring Topology (6 marks)**
 ```
-Describe:
+Describe: A ring topology is a type of network setup where each computer and network devices are connected to each other.
 
 Advantages:
-
+It Is Very Organised
+No Need For A Server
 Disadvantages:
-```
-
+If One Shuts Down The Entire Network Shuts Down
 **Star Topology (6 marks)**
 ```
-Describe:
+Describe: A star topology is a type of network where all computer and network devices are connected to a central hub.
 
 Advantages:
+Very Reliable
+High Performing
 
 Disadvantages:
-```
+Very Expensive 
+
